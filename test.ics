@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20260304T162908Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________\n\nRéunion Microsoft Teams \n\nRejoindre : https:/
+	/teams.microsoft.com/meet/31264519361381?p=d6wbSxQPgYtaTfjpy7 <https://tea
+	ms.microsoft.com/meet/31264519361381?p=d6wbSxQPgYtaTfjpy7>  \n\nNuméro de
+	 réunion : 312 645 193 613 81 \n\nCode secret : qX7tn3sM \n\n____________
+	____________________\n\nBesoin d'aide ? <https://aka.ms/JoinTeamsMeeting?o
+	mkt=fr-FR>  | Référence système <https://teams.microsoft.com/l/meetup-j
+	oin/19%3ameeting_YmEyMzYwNmEtNWNhNy00NmM2LThlOGUtM2Y3YTY3NjRmOTI3%40thread
+	.v2/0?context=%7b%22Tid%22%3a%2225c070e0-d99a-422b-977a-95332ed230fe%22%2c
+	%22Oid%22%3a%223901053d-b8fa-448d-8f00-ed2c376109c0%22%7d>  \n\nParticiper
+	 par téléphone \n\n+33 1 78 95 59 92\,\,111183807# <tel:+33178955992\,\,
+	111183807>  France\, All locations \n\nTrouver un numéro local <https://d
+	ialin.teams.microsoft.com/802ad6e6-38c1-46a6-8621-d282f60f5d73?id=11118380
+	7>  \n\nNuméro de conférence téléphonique : 111 183 807# \n\nPour les 
+	organisateurs : Options de réunion <https://teams.microsoft.com/meetingOp
+	tions/?organizerId=3901053d-b8fa-448d-8f00-ed2c376109c0&tenantId=25c070e0-
+	d99a-422b-977a-95332ed230fe&threadId=19_meeting_YmEyMzYwNmEtNWNhNy00NmM2LT
+	hlOGUtM2Y3YTY3NjRmOTI3@thread.v2&messageId=0&language=fr-FR>  | Réinitial
+	iser le code PIN d'appel <https://dialin.teams.microsoft.com/usp/pstnconfe
+	rencing>  \n\n____________________________________________________________
+	____________________\n\n \n\n
+DTEND;TZID="Romance Standard Time":20260305T153000
+DTSTAMP:20260304T162908Z
+DTSTART;TZID="Romance Standard Time":20260305T140000
+LAST-MODIFIED:20260304T162908Z
+LOCATION:Réunion Microsoft Teams
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:CSF - GT Innovation - Jeudi 5 mars 2026
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000064E25293F2ABDC01000000000000000
+	010000000A7249D352533434CA26AF882E979378F
+X-ALT-DESC;FMTTYPE=text/html:<div class="cal_316e">\n<div style="word-wrap:
+	break-word" lang="FR">\n<div class="x_WordSection1">\n<p class="x_MsoNorma
+	l">&nbsp\;</p>\n<div>\n<div style="margin-bottom:18.0pt\; overflow:hidden"
+	>\n<p class="x_MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\; color:#242424">_____________________________________________
+	___________________________________</span><span style="font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\; color:#242424"></span></p>\n</div>\n<div sty
+	le="margin-bottom:9.0pt">\n<p class="x_MsoNormal"><span class="x_me-email-
+	text"><b><span style="font-size:15.0pt\; font-family:&quot\;Segoe UI&quot\
+	;\,sans-serif\; color:#242424">Réunion Microsoft&nbsp\;Teams</span></b></
+	span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#
+	242424">\n</span></p>\n</div>\n<div style="margin-bottom:4.5pt">\n<p class
+	="x_MsoNormal"><span class="x_me-email-text"><b><span style="font-size:15.
+	0pt\; font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424">Rejo
+	indre&nbsp\;:\n</span></b></span><span style="font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\; color:#242424"><a title="Meeting join" data-auth="Not
+	Applicable" rel="noopener noreferrer" target="_blank" href="https://teams.
+	microsoft.com/meet/31264519361381?p=d6wbSxQPgYtaTfjpy7"><span style="font-
+	size:15.0pt\; color:#5B5FC7">https://teams.microsoft.com/meet/312645193613
+	81?p=d6wbSxQPgYtaTfjpy7</span></a>\n</span></p>\n</div>\n<div style="margi
+	n-bottom:4.5pt">\n<p class="x_MsoNormal"><span class="x_me-email-text-seco
+	ndary"><span style="font-size:10.5pt\; font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\; color:#616161">Numéro de réunion :\n</span></span><span cl
+	ass="x_me-email-text"><span style="font-size:10.5pt\; font-family:&quot\;S
+	egoe UI&quot\;\,sans-serif\; color:#242424">312 645 193 613 81</span></spa
+	n><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242
+	424">\n</span></p>\n</div>\n<div style="margin-bottom:24.0pt">\n<p class="
+	x_MsoNormal"><span class="x_me-email-text-secondary"><span style="font-siz
+	e:10.5pt\; font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#616161"
+	>Code secret&nbsp\;:\n</span></span><span class="x_me-email-text"><span st
+	yle="font-size:10.5pt\; font-family:&quot\;Segoe UI&quot\;\,sans-serif\; c
+	olor:#242424">qX7tn3sM</span></span><span style="font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\; color:#242424">\n</span></p>\n</div>\n<div style="
+	margin-bottom:9.0pt">\n<div style="text-align:center" align="center" class
+	="x_MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\; color:#242424">\n<hr align="center" width="100%" size="1">\n</span></di
+	v>\n</div>\n<div style="margin-bottom:18.0pt">\n<p class="x_MsoNormal"><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424">
+	<a data-auth="NotApplicable" rel="noopener noreferrer" target="_blank" hre
+	f="https://aka.ms/JoinTeamsMeeting?omkt=fr-FR"><span style="font-size:10.5
+	pt\; color:#5B5FC7">Besoin\n d'aide ?</span></a> </span><span style="font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#616161">|</span><span s
+	tyle="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424">\n<a
+	 data-auth="NotApplicable" rel="noopener noreferrer" target="_blank" href=
+	"https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmEyMzYwNmEtNWNhNy
+	00NmM2LThlOGUtM2Y3YTY3NjRmOTI3%40thread.v2/0?context=%7b%22Tid%22%3a%2225c
+	070e0-d99a-422b-977a-95332ed230fe%22%2c%22Oid%22%3a%223901053d-b8fa-448d-8
+	f00-ed2c376109c0%22%7d">\n<span style="font-size:10.5pt\; color:#5B5FC7">R
+	éférence système</span></a> </span>\n</p>\n</div>\n<div>\n<div style="m
+	argin-bottom:4.5pt">\n<p class="x_MsoNormal"><span class="x_me-email-text"
+	><b><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#2
+	42424">Participer par téléphone</span></b></span><span style="font-famil
+	y:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424">\n</span></p>\n</div
+	>\n<div style="margin-bottom:4.5pt">\n<p class="x_MsoNormal"><span style="
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424"><a data-au
+	th="NotApplicable" rel="noopener noreferrer" target="_blank" href="tel:+33
+	178955992\,\,111183807"><span style="font-size:10.5pt\; color:#5B5FC7">+33
+	 1 78 95 59 92\,\,111183807#</span></a>\n</span><span class="x_me-email-te
+	xt"><span style="font-size:10.5pt\; font-family:&quot\;Segoe UI&quot\;\,sa
+	ns-serif\; color:#616161">France\, All locations</span></span><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424">\n</span>
+	</p>\n</div>\n<div style="margin-bottom:4.5pt">\n<p class="x_MsoNormal"><s
+	pan style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424"
+	><a data-auth="NotApplicable" rel="noopener noreferrer" target="_blank" hr
+	ef="https://dialin.teams.microsoft.com/802ad6e6-38c1-46a6-8621-d282f60f5d7
+	3?id=111183807"><span style="font-size:10.5pt\; color:#5B5FC7">Trouver\n u
+	n numéro local</span></a> </span></p>\n</div>\n</div>\n<div style="margin
+	-bottom:18.0pt">\n<p class="x_MsoNormal"><span class="x_me-email-text-seco
+	ndary"><span style="font-size:10.5pt\; font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\; color:#616161">Numéro de conférence téléphonique&nbsp\;:
+	\n</span></span><span class="x_me-email-text"><span style="font-size:10.5p
+	t\; font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#242424">111 18
+	3 807#</span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-
+	serif\; color:#242424">\n</span></p>\n</div>\n<div>\n<p class="x_MsoNormal
+	"><span class="x_me-email-text-secondary"><span style="font-size:10.5pt\; 
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#616161">Pour les o
+	rganisateurs&nbsp\;:\n</span></span><span style="font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\; color:#242424"><a data-auth="NotApplicable" rel="n
+	oopener noreferrer" target="_blank" href="https://teams.microsoft.com/meet
+	ingOptions/?organizerId=3901053d-b8fa-448d-8f00-ed2c376109c0&amp\;tenantId
+	=25c070e0-d99a-422b-977a-95332ed230fe&amp\;threadId=19_meeting_YmEyMzYwNmE
+	tNWNhNy00NmM2LThlOGUtM2Y3YTY3NjRmOTI3@thread.v2&amp\;messageId=0&amp\;lang
+	uage=fr-FR"><span style="font-size:10.5pt\; color:#5B5FC7">Options\n de r
+	éunion</span></a> </span><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\; color:#616161">|</span><span style="font-family:&quot\;Segoe
+	 UI&quot\;\,sans-serif\; color:#242424">\n<a data-auth="NotApplicable" rel
+	="noopener noreferrer" target="_blank" href="https://dialin.teams.microsof
+	t.com/usp/pstnconferencing">\n<span style="font-size:10.5pt\; color:#5B5FC
+	7">Réinitialiser le code PIN d'appel</span></a>\n</span></p>\n</div>\n<di
+	v style="margin-bottom:18.0pt\; overflow:hidden">\n<p class="x_MsoNormal">
+	<span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#24242
+	4">_______________________________________________________________________
+	_________</span></p>\n</div>\n</div>\n<p class="x_MsoNormal">&nbsp\;</p>\n
+	</div>\n</div>\n</div>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
